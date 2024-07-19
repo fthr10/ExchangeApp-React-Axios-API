@@ -1,0 +1,69 @@
+.currency-div{
+    background-color: #DBC298;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 50px;
+    width:450px;
+    height:200px;
+    border:3px solid black ;
+    border-radius: 10px;
+    position: relative;
+}
+.amount{
+    width: 80px;
+    height: 25px;
+    margin-right: 10px;
+    margin-left: 38px;
+}
+.from-currency-option{
+    width: 70px;
+    height: 30px;
+    margin-right: 10px;
+}
+.to-currency-option{
+    width: 70px;
+    height: 30px;
+    margin-right: 10px;
+}
+.result{
+    width: 80px;
+    height: 25px;
+}
+.exchange-button{
+    width:80px; 
+    height:30px;
+    background-color: black;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    margin-top: 15px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px;
+}
+@media (max-width: 600px) {
+    .currency-div {
+        width: 100%; /* Full width on small screens */
+        margin-top: 20px;
+    }
+
+    .amount, .result, .from-currency-option, .to-currency-option {
+        width: 80px;
+        margin: 5px 0; /* Adjust margin for smaller screens */
+    }
+
+    .exchange-button {
+        width: 80px;
+        height: 30px;
+    }
+}
+.text-container {
+    max-width: 800px; /* Limit the width for readability */
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly opaque background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
