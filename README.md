@@ -19,3 +19,23 @@ Kullanım
 
 Uygulama açıldığında, varsayılan olarak USD (Amerikan Doları) ve TRY (Türk Lirası) arasında dönüşüm yapar. Diğer para birimleri arasında dönüşüm yapmak için para birimi seçim kutusunu kullanabilirsiniz.
 
+# Currency Converter Application
+
+This project is a currency converter application that allows users to convert between various currencies. The application is developed using React, and it fetches data using the Axios library and a free real-time currency exchange rate API.
+
+## Features
+
+-   Convert between 12 different currencies
+-   User-friendly interface
+-   Real-time exchange rate information
+-   Easy and quick to use
+
+## Technologies Used
+
+-   **React:** For building the user interface
+-   **Axios:** For making API requests
+-   **Free Currency API:** For fetching exchange rate data
+
+## Usage
+
+Upon launching the application, it defaults to converting between USD (US Dollar) and TRY (Turkish Lira). You can select other currencies for conversion using the currency dropdown menu.
