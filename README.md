@@ -39,3 +39,12 @@ This project is a currency converter application that allows users to convert be
 ## Usage
 
 Upon launching the application, it defaults to converting between USD (US Dollar) and TRY (Turkish Lira). You can select other currencies for conversion using the currency dropdown menu.
+
+
+
+
+![Ekran görüntüsü 2024-09-15 200610](https://github.com/user-attachments/assets/3318f114-3e41-45cf-9631-20a85bd9db55)
+![Ekran görüntüsü 2024-09-15 200548](https://github.com/user-attachments/assets/5e56932c-0a74-4514-97cd-0ebe23ad5e56)
+![Ekran görüntüsü 2024-09-15 200530](https://github.com/user-attachments/assets/a6c0fb56-1ea3-4cb0-a18e-3ab606a18896)
+![Ekran görüntüsü 2024-09-15 200516](https://github.com/user-attachments/assets/36c99d20-5d14-47bb-9e37-f0ff35b36b04)
+![Ekran görüntüsü 2024-09-15 200617](https://github.com/user-attachments/assets/abf115b6-7925-49c8-9997-9a38f649ff09)
